@@ -27,7 +27,7 @@
   "fpsreducer.config.menu.idleFps": "閒暇幀率之極限",
   "fpsreducer.config.menu.advancedOptions": "進設",
   "fpsreducer.config.menu.guiScreenFps": "選單中幀率之極限",
-  "fpsreducer.config.menu.noActFps": "閑置幀率之極限",
+  "fpsreducer.config.menu.noActFps": "閒置幀率之極限",
   "fpsreducer.config.menu.returnToGame": "畢",
   "fpsreducer.config.playerConfig": "戲者置設",
   "fpsreducer.config.globalConfig": "全域置設",
