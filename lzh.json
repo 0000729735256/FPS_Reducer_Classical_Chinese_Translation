@@ -1,10 +1,10 @@
 {
-  "key.categories.FpsReducer": "FPS Reducer",
+  "key.categories.FpsReducer": "幀數減抑器"，
   "fpsreducer.key.openGui": "啟置設介面",
   "fpsreducer.key.forceIdle": "手降幀率",
 
-  "fpsreducer.config.screen.title": "FPS Reducer 置設",
-  "fpsreducer.config.advanced.screen.title": "FPS Reducer 進設",
+  "fpsreducer.config.screen.title": "幀數減抑器置設",
+  "fpsreducer.config.advanced.screen.title": "幀數減抑器進設",
   
   "fpsreducer.config.menu.enableFpsReducer": "FPS Reducer",
   "fpsreducer.config.menu.detectMoving": "察動",
